@@ -1,8 +1,6 @@
-# PA — Discord Soundboard PA System (Redbot cog)
+# PA: Discord Soundboard PA System (Redbot cog)
 
-Broadcasts a soundboard sound to every populated voice channel in a server, one
-channel at a time (or several in parallel, if you configure helper bots) —
-like an old-school building PA system, but for Discord voice channels.
+Broadcasts a soundboard sound to every populated voice channel in a server, one channel at a time (or several in parallel, if you configure helper bots) - like an old-school building PA system, but for Discord voice channels. This is intended for in-person LAN parties, tournaments and large Discords with elastic channel counts where users may need directions sent en masse.
 
 ## Features
 
