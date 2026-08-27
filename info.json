@@ -1,5 +1,5 @@
 {
-    "author": ["you"],
+    "author": ["Kevlar"],
     "min_bot_version": "3.5.0",
     "min_python_version": [3, 9, 0],
     "description": "Broadcasts a soundboard sound to every populated voice channel in the server, one channel at a time.",
