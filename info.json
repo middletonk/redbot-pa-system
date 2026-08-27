@@ -1,0 +1,9 @@
+{
+    "author": ["you"],
+    "min_bot_version": "3.5.0",
+    "min_python_version": [3, 9, 0],
+    "description": "Broadcasts a soundboard sound to every populated voice channel in the server, one channel at a time.",
+    "short": "Discord soundboard PA system.",
+    "tags": ["voice", "soundboard", "announcement", "pa"],
+    "end_user_data_statement": "This cog does not persistently store data about users. It stores per-guild settings (announcement delay and behaviour toggles) only."
+}
